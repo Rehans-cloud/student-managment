@@ -1,13 +1,10 @@
+## Project Status
 
-# Student Management System
+The initial version of this project has been created.
 
-This is a simple student management project.
+## Future Improvements
 
-## Files
-- index.html: Main webpage
-- style.css: Stylesheet for the webpage
+- Add a student registration form.
+- Display student records.
+- Improve the user interface with CSS.
 
-## Technologies
-- HTML
-- CSS
-- Git 
