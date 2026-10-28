@@ -1,0 +1,10 @@
+> style.css <<'EOF'
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h1 {
+    color: navy;
+}
+EOF
